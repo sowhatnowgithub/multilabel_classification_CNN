@@ -1,7 +1,10 @@
 # Meesho Attribute Prediction - Multilabel Classification with CNN
 
+Contributors : Myself and [epoch-seeker](https://github.com/Epoch-Seeker)
+
 This repository contains code for the **Meesho Attribute Prediction Competition**, where the goal is to predict various product attributes for e-commerce items using image and metadata. The solution utilizes a custom Convolutional Neural Network (CNN) built from scratch and incorporates a basic data cleaning procedure.
 
+The original code which we used for the compettion is in this link https://github.com/Epoch-Seeker/Meesho-Attribute-Predict-Competition/blob/main/README.md
 ## Table of Contents
 
 - [Overview](#overview)
